@@ -1,0 +1,8 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 5462-FE5A
+
+ Directory of C:\Users\AZHAR\Desktop\My project
+
+12/16/2020  11:44 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               0 Dir(s)  28,315,598,848 bytes free
